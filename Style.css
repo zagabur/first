@@ -1,0 +1,103 @@
+*{
+font-family: 'Roboto', sans-serif;
+  padding: 0;
+  margin: 0;
+
+}
+
+.top_head {
+  background-image: url("./Img/background.png");
+   width: auto;
+    height: 700px;
+margin-bottom: 100px
+}
+
+.header_wrap{
+    
+ margin-top: auto;
+
+}
+
+
+.header_description {
+color: #000;
+font-size: 20px;
+margin-left: 400px;
+padding-top: 300px;
+
+}
+
+.top_description{
+  font-size: 40px;
+  margin-left: 400px;
+}
+
+.container {
+  max-width: : 1400px; 
+  padding-left: 100px;
+  
+ 
+}
+
+/*==============/header==============*/
+
+
+
+/*============main================*/
+.advertise {
+  margin-left: 200px;
+max-width: 1300px;
+display: flex;
+justify-content: space-around;
+flex-wrap: wrap;
+
+}
+.boxed_ad img
+{
+  height: 150px;
+}
+
+
+.boxed_ad {
+  padding: 10px;
+  display:flex;
+  max-width: 600px;
+}
+
+.righ_side{
+     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: baseline;
+    padding-left: 10px;
+
+}
+.btn { 
+
+text-decoration: none; 
+border: none;
+padding: 4px 20px;
+margin: 6px 4px;
+color : red;
+background: #f2f2f2;
+border-radius: 10px;
+ }
+
+.btn:hover {
+
+  background : red;
+  color : white;
+}
+
+    
+.low  {
+  margin-top: 100px;
+  height: 150px; 
+  background:red;
+}
+
+
+
+
+
+
